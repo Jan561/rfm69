@@ -5,7 +5,7 @@ authors = ["Benjamin Cheng <ben@bcheng.cf>"]
 license = "MIT/Apache-2.0"
 
 [dependencies]
-embedded-hal = "0.1"
+embedded-hal = "0.2"
 
 [dependencies.cast]
 version = "0.2"
